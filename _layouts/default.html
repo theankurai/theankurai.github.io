@@ -44,11 +44,6 @@
       </header>
       <section>
          {{ content }}
-      </section>
-      <footer>
-         {% if site.github.is_project_page %}
-         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-         {% endif %}
          <p>
             <br>
             <hr>
@@ -59,6 +54,11 @@
             </h4>
             <hr>
          </p>
+      </section>
+      <footer>
+         {% if site.github.is_project_page %}
+         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
+         {% endif %}
          <p>Got a project in mind? <br>I would love to connect. <br> Email Me: <b>ankurkumar.ds@gmail.com</b></p>
       </footer>
    </div>
