@@ -1,7 +1,7 @@
-## Portfolio
+## Portfolio (Under development)
 
 ---
-#### [Project 1 Title](/sample_page)  [Project 2 Title](/sample_page)
+#### [About Me](/sample_page) &emsp;&emsp;  [Projects](/sample_page) &emsp;&emsp;  [Blogs](/sample_page)
 
 ---
 
