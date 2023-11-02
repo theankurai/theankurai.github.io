@@ -3,7 +3,7 @@
 
 A Data Scientist with nearly 3 years of work experience in developing predictive models and delivering end-to-end machine learning solutions. I have worked on problems such as sentiment analysis, email classification, OCR (reading text from images), information extraction (NER & intent classification), image recognition, text similarity and object detection (Yolov5) using machine learning, deep learning and NLP algorithms. 
 
-## Skils
+## Skills
 ---
 - **Tools:**  Python, SQL, NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn, SciPy, Flask, PaddleOCR, TrOCR, EasyOCR, TensorFlow, Keras, PyTorch, OpenCV
 - **Machine Learning:** Linear & Logistic Regression, SVM, Decision Tree, KNN, Naive Bayes, Ensemble Techniques
