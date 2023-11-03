@@ -7,7 +7,7 @@
 ---
 
 [Enron Email Classification](/sample_page) <br>
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/enron_email.png?raw=true"/>
 
 ---
 [FAQ-based ChatBot](/sample_page)
