@@ -1,8 +1,43 @@
-## Portfolio (Under development)
+## Data Science Projects Portfolio (Under development)
 
 ---
 
-### Category Name 1 
+### Natural Language Processing (NLP)
+---
+
+[Enron Email Classification](/sample_page)
+
+---
+[FAQ-based ChatBot](/sample_page)
+
+---
+[Sentiment Analysis using LSTM](/sample_page)
+
+---
+
+
+### Computer Vision
+---
+[Face Mask Detection](/sample_page)
+
+---
+[Text Rotation Detection](/sample_page)
+
+---
+
+### Machine Learning
+---
+[Default Prediction - Logistic Regression & Decision Tree](/sample_page)
+
+---
+
+[Stocks Price Prediction](/sample_page)
+
+---
+
+### Data Wrangling
+---
+
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
