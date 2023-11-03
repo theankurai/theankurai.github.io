@@ -2,6 +2,10 @@
 
 ---
 
+<br>
+
+---
+
 ### Natural Language Processing (NLP)
 ---
 
@@ -15,6 +19,9 @@
 
 ---
 
+<br>
+
+---
 
 ### Computer Vision
 ---
@@ -25,6 +32,10 @@
 
 ---
 
+<br>
+
+---
+
 ### Machine Learning
 ---
 [Default Prediction - Logistic Regression & Decision Tree](/sample_page)
@@ -32,6 +43,10 @@
 ---
 
 [Stocks Price Prediction](/sample_page)
+
+---
+
+<br>
 
 ---
 
