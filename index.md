@@ -6,8 +6,11 @@
 ### Natural Language Processing (NLP)
 ---
 
-[Enron Email Classification](/sample_page) <br>
+<br>
+<a href="/sample_page">
+Enron Email Classification
 <img src="images/enron_email.png?raw=true"/>
+</a>
 
 ---
 [FAQ-based ChatBot](/sample_page)
