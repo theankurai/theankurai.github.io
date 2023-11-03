@@ -2,10 +2,6 @@
 
 ---
 
-<br>
-
----
-
 ### Natural Language Processing (NLP)
 ---
 
