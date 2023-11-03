@@ -15,11 +15,8 @@
 ---
 [Sentiment Analysis using LSTM](/sample_page)
 
----
 
 <br>
-
----
 
 ### Computer Vision
 ---
@@ -32,7 +29,7 @@
 
 <br>
 
----
+
 
 ### Machine Learning
 ---
@@ -46,7 +43,7 @@
 
 <br>
 
----
+
 
 ### Data Wrangling
 ---
