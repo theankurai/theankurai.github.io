@@ -1,9 +1,6 @@
 ## Portfolio (Under development)
 
 ---
-#### [About Me](/aboutme) &emsp;&emsp;  [Projects](/sample_page) &emsp;&emsp;  [Blogs](/sample_page)
-
----
 
 ### Category Name 1 
 
